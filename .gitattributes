@@ -1,0 +1,3 @@
+*.xaml linguist-language=XAML
+*.xlsx linguist-vendored
+*.json linguist-vendored
