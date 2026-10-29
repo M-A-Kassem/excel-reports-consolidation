@@ -1,0 +1,14 @@
+# UiPath generated
+.local/
+.tmh/
+.project/
+
+# Output files (contain dated data, not source)
+Sales Results/
+
+# Visual Studio
+*.suo
+
+# Credentials / secrets
+*.config
+appsettings*.json
